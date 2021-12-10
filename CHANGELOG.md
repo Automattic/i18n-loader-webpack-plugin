@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Initial release.
+
+### Changed
+- Use Webpack's provided `validateSchema` instead of requiring `schema-utils` ourself.
