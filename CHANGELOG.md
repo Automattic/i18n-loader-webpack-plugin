@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Document use of jetpack-assets, jetpack-composer-plugin, and i18n-loader-webpack-plugin together.
 
+### Changed
+- Updated package dependencies
+
 ## 1.0.0 - 2021-12-22
 ### Added
 - Initial release.
